@@ -1,12 +1,13 @@
-# Raspberry Pico C++ Example Code 
-This is an example code to code raspberry pi pico in C++  
+# Raspberry Pi Pico C++ Example Code 
+This is an example code to code Raspberry pi pico in C++  
 It simply retrieve data from BME280 sensors (temp, humidity, and pressure), and show on SSD1306 based OLED display.  
 Raspberry Pi Picoのテストプロジェクトです。BME280からの値をSSD1306にて表示するC++サンプルコードです
 私の環境は、macOS Big Sur 11.3 ですが、windowsやその他の環境でも問題無いと思います
 
-## Hardware
+## Hardware Setup
 Connect your SSD1306 oled display, and BME280 to i2c1 port  
 In this example, connection was made as follows:  
+このサンプルでは、下記の様にブレッドボード上にBME280とSSD1306を配置しました
 
 ```
 SDA->GP14(pin 19)  
