@@ -38,5 +38,5 @@ git clone https://github.com/mbober1/RPi-Pico-SSD1306-library.git
 
 --------  
 Takuya Otani  
-<ta98otani@gmail.com>  
+
 
