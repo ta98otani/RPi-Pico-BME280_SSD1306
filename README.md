@@ -13,13 +13,16 @@ VCC->3V3(OUT)
 
 ## Software
 Please make sure you have pico-sdk installed with necessary environment setup  
+```
 git clone https://github.com/raspberrypi/pico-sdk.git  
+```
 
 For this example, use following     
+```
 git clone https://github.com/ta98otani/RPi-Pico-BME280_SSD1306.git  
 cd RPi-Pico-BME280_SSD1306  
 git clone https://github.com/mbober1/RPi-Pico-SSD1306-library.git  
-
+```
 (This example uses SSD1306 code above.  Thanks to @mbober1)  
 
 --------  
