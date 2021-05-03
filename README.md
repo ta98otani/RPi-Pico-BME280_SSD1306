@@ -14,7 +14,7 @@ SCL->GP15(pin 20)
 GND->GND  
 VCC->3V3(OUT)  
 ```
-![alt text](https://github.com/ta98otani/RPi-Pico-BME280_SSD1306/blob/master/BME280_SSD1306.jpg?raw=true)  
+![alt text](https://github.com/ta98otani/RPi-Pico-BME280_SSD1306/blob/master/BME280_SSD1306.jpeg?raw=true)  
 
 BME280 from Amazon / BME280は下記を使いました  
 https://www.amazon.co.jp/gp/product/B01M98R905/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1  
